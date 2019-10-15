@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "git jenkins practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nareshdasireddi/jenkins-demo.git"
+  },
+  "author": "naresh d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nareshdasireddi/jenkins-demo/issues"
+  },
+  "homepage": "https://github.com/nareshdasireddi/jenkins-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
